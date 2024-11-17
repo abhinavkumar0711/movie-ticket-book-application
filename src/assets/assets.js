@@ -4,15 +4,14 @@ import MovieCover3 from './MovieCovers/MoviePoster3.png'
 import MovieCover4 from './MovieCovers/KungFuPandaPoster.png'
 import TrailerVideo from './Trailer/movieTrailer.webm'
 import kungfupanda4Image from './MovieCovers/kungfupanda4.png'
-import PopCornImage from './Buffet/PopCorn.png';
-import LargePopCornImage from './Buffet/LargePopCorn.png';
-import MediumPopCornImage from './Buffet/MediumPopCorn.png';
-import SmallPopCornImage from './Buffet/SmallPopCorn.png';
+import PopCornImage from './Buffet/Popcorn.png';
+import LargePopCornImage from './Buffet/LargePopcorn.png';
+import MediumPopCornImage from './Buffet/MediumPopcorn.png';
+import SmallPopCornImage from './Buffet/SmallPopcorn.png';
 import DoubleMediumPopCornImage from './Buffet/DoubleMediumPopCorn.png';
 import TheatreScreen from './TheatreScreen.png';
 import MoviePoster5 from './MovieCovers/MoviePoster5.png';
 import MoviePoster6 from './MovieCovers/MoviePoster6.png';
-import MoviePoster7 from './MovieCovers/MoviePoster7.png';
 import KF4Image1 from './KungFuPanda/image1.png'
 import KF4Image2 from './KungFuPanda/image2.png'
 
